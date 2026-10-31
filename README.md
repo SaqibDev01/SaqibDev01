@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-  <a href="https://muhammad-saqib-portfolio.netlify.app"><img alt="Muhammad Saqib - Full Stack Developer Portfolio" src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge"/></a>
+  <a href="https://muhammadsaqibdev.vercel.app/"><img alt="Muhammad Saqib - Full Stack Developer Portfolio" src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/muhammadsaqibdev01/"><img alt="Muhammad Saqib on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.upwork.com/freelancers/muhammadsaqib01"><img alt="Hire Muhammad Saqib on Upwork" src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/~019a897639487e78b8"><img alt="Hire Muhammad Saqib on Upwork" src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/></a>
   <a href="https://www.fiverr.com/contactsaqibdev"><img alt="Hire Muhammad Saqib on Fiverr" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
   <a href="https://x.com/SaqibDev01"><img alt="Muhammad Saqib on X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.facebook.com/SaqibDev01"><img alt="Muhammad Saqib on Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -70,4 +70,4 @@ I work with startups, businesses and product teams to ship MVPs, admin dashboard
 
 ## Let's Work Together
 
-Looking for a **Full Stack Developer**, **MERN stack developer** or **React Native developer** for a web app, mobile app, SaaS product or API? See my [Full Stack Developer portfolio](https://muhammad-saqib-portfolio.netlify.app), [hire me on Upwork](https://www.upwork.com/freelancers/muhammadsaqib01), message me on [LinkedIn](https://www.linkedin.com/in/muhammadsaqibdev01/) or email [contact.saqibdev@gmail.com](mailto:contact.saqibdev@gmail.com).
+Looking for a **Full Stack Developer**, **MERN stack developer** or **React Native developer** for a web app, mobile app, SaaS product or API? See my [Full Stack Developer portfolio](https://muhammadsaqibdev.vercel.app/), [hire me on Upwork](https://www.upwork.com/freelancers/~019a897639487e78b8), message me on [LinkedIn](https://www.linkedin.com/in/muhammadsaqibdev01/) or email [contact.saqibdev@gmail.com](mailto:contact.saqibdev@gmail.com).
